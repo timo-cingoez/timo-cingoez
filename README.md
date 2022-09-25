@@ -1,27 +1,32 @@
-<h1 align="center">Hi 👋, I'm Timo Cingöz</h1>
-<h3 align="center">A passionate junior developer from Germany</h3>
+# Timo Cingöz
+<a href="https://www.github.com/timo-cingoez" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="25"></a>&nbsp;
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=timo-cingoez&label=Profile%20views&color=0e75b6&style=flat" alt="timo-cingoez" /> </p>
+## 👋 Hello World
+I'm a junior developer from Germany.
 
-- 🔭 I’m currently working on **Comfinote**
+![Profile Views](https://komarev.com/ghpvc/?username=timo-cingoez&theme=default&color=blue&style=flat&label=Profile+Views)
 
-- 🌱 I’m currently learning **OOP PHP, Angular**
+## About me
+🔭&nbsp;I’m currently working on **Comfinote (Note/Markdown Editor)**
+<br/>🎓&nbsp;Graduated in **2022 (IHK - Specialised Computer Scientist Software Development)**
+<br/>🌱&nbsp;Learning about **Fullstack Web development**
+<br/>💬&nbsp;Ask me about **any tech-related stuff.**
+<br/>⚡&nbsp;Fun fact **TS > JS**
+<br/>📫&nbsp;Reach me [timo-cingoez@hotmail.de](mailto:timo-cingoez@hotmail.de)
+<br/>🖥&nbsp; See my portfolio at [timo-cingoez.dev](www.timo-cingoez.dev)
 
-- 👨‍💻 All of my projects are available at [timo-cingoez.dev](timo-cingoez.dev)
+## Tech Stack
+<img src="https://img.shields.io/badge/Angular-05122A?style=flat&logo=angular" alt="angular Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Apache-05122A?style=flat&logo=apache" alt="apache Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnu-bash" alt="bash Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/C-05122A?style=flat&logo=c" alt="c Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Css3-05122A?style=flat&logo=css3" alt="css3 Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git" alt="git Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Html5-05122A?style=flat&logo=html5" alt="html5 Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Javascript-05122A?style=flat&logo=javascript" alt="javascript Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Jquery-05122A?style=flat&logo=jQuery" alt="jQuery Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Kotlin-05122A?style=flat&logo=kotlin" alt="kotlin Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Mysql-05122A?style=flat&logo=mysql" alt="mysql Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Php-05122A?style=flat&logo=php" alt="php Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Typescript-05122A?style=flat&logo=typescript" alt="typescript Badge" height="25">&nbsp;
 
-- 💬 Ask me about **PHP, JS, HTML/CSS, C**
-
-- 📫 How to reach me **timo-cingoez@hotmail.de**
-
-- ⚡ Fun fact **NaN === NaN; // false**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=timo-cingoez&show_icons=true&locale=en&layout=compact" alt="timo-cingoez" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=timo-cingoez&show_icons=true&locale=en" alt="timo-cingoez" /></p>
