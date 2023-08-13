@@ -3,7 +3,6 @@ I’m currently working on **Comfinote (Note/Markdown Editor)**
 <br/>🎓&nbsp;Graduated in **2022 (IHK - Specialised Computer Scientist Software Development)**
 <br/>🌱&nbsp;I'm currently learning about **Fullstack Web development**.
 <br/>💬&nbsp;Ask me about **any tech-related stuff.**
-<br/>📫&nbsp;How to reach me: Email - [timo-cingoez@hotmail.de](mailto:timo-cingoez@hotmail.de)
 <br/>🖥&nbsp; See my portfolio at [timo-cingoez.dev](www.timo-cingoez.dev)
 <br/>⚡&nbsp;Fun fact **Time on Mercury is very strange.**
 
